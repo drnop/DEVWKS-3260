@@ -1,5 +1,5 @@
 {
-"tenant": "78a2334a-218e-4fb5-a319-a8e70c418229",
-"client_id" : "daaf1070-2975-4c39-9e1d-a324141cd8ce",
-"client_secret" : "Q4B8Q~emZXnPmmSkm4Z2F9-CAP1CB5Mp9flssaXI"
+"TENANT_ID": "78a2334a-218e-4fb5-a319-a8e70c418229",
+"APPLICATION_ID" : "daaf1070-2975-4c39-9e1d-a324141cd8ce",
+"CLIENT_SECRET" : "Q4B8Q~emZXnPmmSkm4Z2F9-CAP1CB5Mp9flssaXI"
 }
