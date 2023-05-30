@@ -69,8 +69,9 @@ def main(args):
 
     input("\nPress Enter to continue with next step - to get info about a user in Azure AD")
     #get info about garfield, upn (User Principal Name) 
-    print("Getting User info...for garfield@hnohregmail.onmicrosoft.com")
-    upn = "garfield@hnohregmail.onmicrosoft.com"
+    upn = "garfield@labrats.se"
+    print("Getting User info...for {}".format(upn))
+    
     url = "https://graph.microsoft.com/v1.0/users/{}".format(upn)
     headers = {
         "Accept": "application/json",
